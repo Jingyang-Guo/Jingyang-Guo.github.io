@@ -1,8 +1,8 @@
 {
-  "name": "astrofy",
-  "description": "Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section and RSS Feed.",
+  "name": "jingyang-guo.github.io",
+  "description": "Personal website of Jingyang Guo.",
   "type": "module",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
